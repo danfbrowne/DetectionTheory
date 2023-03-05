@@ -1,2 +1,2 @@
 # DetectionTheory
-Matlab and related files from a detection theory course.
+Matlab and related files from the Detection Theory graduate course.
